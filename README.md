@@ -1,4 +1,4 @@
-Ui### Hi there 👋
+Ui Hi there 👋
 
 <!--
 **GabrielFernandesDEV/GabrielFernandesDEV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Swift Badge](https://img.shields.io/badge/-Swift-blue?style=flat-square&logo=Swift&logoColor=orangered&)
-![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fagnerpsantos)](https://twitter.com/fagnerpsantos)
-![Youtube Badge](https://img.shields.io/badge/-YouTube-ff0000?style=flat-square&labelColor=ff0000&logo=youtube&logoColor=white&link=https://www.youtube.com/user/TreinaWeb)](https://www.youtube.com/user/TreinaWeb)
 
-?style=plastic&logo=appveyor
+https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white
+https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
+https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white
