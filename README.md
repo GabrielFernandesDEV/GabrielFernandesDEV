@@ -36,7 +36,7 @@
 
 
 
-## 📲 Contact 
+## Contact 
 
 <p align="center">
     <a href="https://github.com/GabrielFernandesDev">
@@ -52,8 +52,12 @@
     </a>
 </p>
 
-
- ## Total de Visitas no perfil :detective: <br>
+ ## Total de Visitas no perfil <br>
  <p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/GabrielFernandesDev/count.svg" />
+ </p>
 
-   <img alingn="center" src="https://profile
+</p>
+
+
+
