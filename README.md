@@ -1,5 +1,5 @@
 
-- 🔭 I’m currently working on 
+<!-- - 🔭 I’m currently working on -->
 ## 🌱 I’m currently learning
 <p align="center">
  <img height="60" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg>
@@ -17,14 +17,27 @@
 -->
 
 ## 📈 GitHub stats
-<p aling="center">
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFernandesDev&show_icons=true&theme=radical)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=GabrielFernandesDev&show_icons=true&theme=radical)
+<p align="center">
+  <a href="https://github.com/GabrielfernandesDev/github-readme-stats">
+    <img
+      align="center"
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFernandesDev&show_icons=true&theme=radical&layout=compact"
+    />
+  
+  <a href="https://github.com/GabrielFernandesDev/github-readme-stats">
+    <img
+      align="center"
+      height="165"
+      src="https://github-readme-stats.vercel.app/api?username=GabrielFernandesDev&show_icons=true&theme=radical&hide=issues"
+    />
+  </a>
 </p>
 
-## 📲 Contact
+
+
+
+## 📲 Contact 
+
 <p align="center">
     <a href="https://github.com/GabrielFernandesDev">
         <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link">
@@ -38,3 +51,9 @@
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link">
     </a>
 </p>
+
+
+ ## Total de Visitas no perfil :detective: <br>
+ <p align="center"> 
+
+   <img alingn="center" src="https://profile
