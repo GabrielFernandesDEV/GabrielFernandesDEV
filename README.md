@@ -2,12 +2,8 @@
 - 🔭 I’m currently working on 
 ## 🌱 I’m currently learning
  <img height="60" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg>
-
 <img height="60" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg>
-
-
 <img height="60" src= https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg>
-
 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
