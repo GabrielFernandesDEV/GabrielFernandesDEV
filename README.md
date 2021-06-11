@@ -19,12 +19,6 @@
 -->
 
 ## 📈 GitHub stats
-<p align="center">
-  <a href="https://github.com/GabrielfernandesDev/github-readme-stats">
-    <img
-      align="center"
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielFernandesDev&show_icons=true&theme=radical&layout=compact"
-    />
   
   <a href="https://github.com/GabrielFernandesDev/github-readme-stats">
     <img
