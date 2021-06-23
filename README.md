@@ -1,5 +1,5 @@
 
-## Oiii! Eu sou a Rafaella Ballerini 
+## 📚 Current Learning
  <div>
   <a href="https://github.com/GabrielFernandesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFernandesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
