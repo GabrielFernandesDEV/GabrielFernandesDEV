@@ -24,3 +24,4 @@
   <a href="https://github.com/GabrielFernandesDev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielFernandesDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=314jkfy5s6tg3z2ttrl4xip37qme&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
